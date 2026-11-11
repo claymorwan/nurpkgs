@@ -60,7 +60,7 @@ rustPlatform.buildRustPackage (finalAttrs: {
     git
     perl
     protobuf
-    aws-lc
+    aws-lc.dev
     wrapGAppsHook4
   ];
 
